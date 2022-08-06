@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828583846421",
+    "project_id": "basicchatapp-e1a8f",
+    "storage_bucket": "basicchatapp-e1a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828583846421:android:b8df6115869bcba574a41c",
+        "android_client_info": {
+          "package_name": "com.example.basicchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828583846421-dm6dtsrqg3u5mn81gg5i05v7fhhv4i3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2V4YKOWb4k5kkldWAnuOkjECfleZ5T8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828583846421-dm6dtsrqg3u5mn81gg5i05v7fhhv4i3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
