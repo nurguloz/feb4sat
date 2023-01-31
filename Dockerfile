@@ -10,7 +10,7 @@ RUN gradle build
 # Package stage
 
 FROM openjdk:11-jre-slim
-ENV JAR_NAME=app.jar
+ENV JAR_NAME=gradle-wrapper.jar
 ENV APP_HOME=/usr/app/
 WORKDIR $APP_HOME
 COPY --from=BUILD $APP_HOME .
